@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Title.unity
+    guid: 40f68e8a1aa6df54cb5b0833c8a93e86
+  - enabled: 1
+    path: Assets/SelectRival.unity
+    guid: cb7d640e6f8d52042836916cfe8fe87c
+  - enabled: 1
+    path: Assets/PlayMaze.unity
+    guid: eaa2c01d5ac2c31458e6d82884ea948f
